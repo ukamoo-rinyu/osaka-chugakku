@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="322" viewBox="0 0 590 322">
+<defs>
+ <pattern id="dotB" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fff"/><circle cx="2" cy="2" r="0.9" fill="#222"/></pattern>
+ <pattern id="dotW" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#b8262b"/><circle cx="2" cy="2" r="0.9" fill="#fff"/></pattern>
+</defs>
+<rect x="1" y="1" width="588" height="320" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="12" y="20" font-size="13" text-anchor="start" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">凡例</text>
+<rect x="14" y="28" width="72" height="20" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<text x="50.0" y="43" font-size="12" text-anchor="middle" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">一般施設</text>
+<rect x="14" y="58" width="276" height="44" fill="#c8c8c8"/>
+<rect x="14" y="102" width="78" height="208" fill="#c8c8c8"/>
+<rect x="92" y="102" width="198" height="208" fill="#fff"/>
+<line x1="36" y1="102" x2="290" y2="102" stroke="#555" stroke-width="1"/>
+<line x1="36" y1="154" x2="290" y2="154" stroke="#555" stroke-width="1"/>
+<line x1="36" y1="206" x2="290" y2="206" stroke="#555" stroke-width="1"/>
+<line x1="36" y1="258" x2="290" y2="258" stroke="#555" stroke-width="1"/>
+<line x1="36" y1="310" x2="290" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="92" y1="80" x2="290" y2="80" stroke="#555" stroke-width="1"/>
+<line x1="14" y1="58" x2="290" y2="58" stroke="#555" stroke-width="1"/>
+<line x1="14" y1="310" x2="290" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="14" y1="58" x2="14" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="290" y1="58" x2="290" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="36" y1="102" x2="36" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="92" y1="58" x2="92" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="154" y1="80" x2="154" y2="310" stroke="#555" stroke-width="1"/>
+<line x1="216" y1="80" x2="216" y2="310" stroke="#555" stroke-width="1"/>
+<text x="191.0" y="74" font-size="12" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">延床面積（㎡）</text>
+<text x="123.0" y="96" font-size="11" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">～499</text>
+<text x="185.0" y="96" font-size="11" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">500～1,999</text>
+<text x="253.0" y="96" font-size="11" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">2,000～</text>
+<text x="64.0" y="133.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">～19</text>
+<text x="64.0" y="185.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">20～39</text>
+<text x="64.0" y="237.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">40～49</text>
+<text x="64.0" y="289.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">50～</text>
+<text x="25.0" y="120" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">築</text>
+<text x="25.0" y="136" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">年</text>
+<text x="25.0" y="152" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">数</text>
+<text x="25.0" y="167" font-size="9" text-anchor="middle" fill="#222" transform="rotate(90 25.0 164)" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">（</text>
+<text x="25.0" y="181" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">令</text>
+<text x="25.0" y="192" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">和</text>
+<text x="25.0" y="203" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">5</text>
+<text x="25.0" y="214" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">年</text>
+<text x="25.0" y="225" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">度</text>
+<text x="25.0" y="236" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">を</text>
+<text x="25.0" y="247" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">基</text>
+<text x="25.0" y="258" font-size="9" text-anchor="middle" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">準</text>
+<text x="25.0" y="266" font-size="9" text-anchor="middle" fill="#222" transform="rotate(90 25.0 263)" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">）</text>
+<circle cx="123.0" cy="128.0" r="7" fill="#fff" stroke="#111" stroke-width="2.4"/>
+<circle cx="185.0" cy="128.0" r="10" fill="#fff" stroke="#111" stroke-width="2.4"/>
+<circle cx="253.0" cy="128.0" r="15" fill="#fff" stroke="#111" stroke-width="2.4"/>
+<circle cx="123.0" cy="180.0" r="7" fill="url(#dotB)" stroke="#111" stroke-width="2.4"/>
+<circle cx="185.0" cy="180.0" r="10" fill="url(#dotB)" stroke="#111" stroke-width="2.4"/>
+<circle cx="253.0" cy="180.0" r="15" fill="url(#dotB)" stroke="#111" stroke-width="2.4"/>
+<circle cx="123.0" cy="232.0" r="7" fill="url(#dotW)" stroke="#111" stroke-width="2.4"/>
+<circle cx="185.0" cy="232.0" r="10" fill="url(#dotW)" stroke="#111" stroke-width="2.4"/>
+<circle cx="253.0" cy="232.0" r="15" fill="url(#dotW)" stroke="#111" stroke-width="2.4"/>
+<circle cx="123.0" cy="284.0" r="7" fill="#d83a35" stroke="#111" stroke-width="2.4"/>
+<circle cx="185.0" cy="284.0" r="10" fill="#d83a35" stroke="#111" stroke-width="2.4"/>
+<circle cx="253.0" cy="284.0" r="15" fill="#d83a35" stroke="#111" stroke-width="2.4"/>
+<rect x="304" y="28" width="76" height="20" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<text x="342.0" y="43" font-size="12" text-anchor="middle" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">学校施設</text>
+<text x="318" y="74" font-size="17" text-anchor="middle" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">文</text>
+<text x="334" y="73" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">小中学校</text>
+<circle cx="318" cy="112" r="11" fill="#fff" stroke="#111" stroke-width="2.4"/>
+<text x="318" y="118" font-size="13" text-anchor="middle" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">文</text>
+<text x="334" y="117" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">高等学校</text>
+<rect x="304" y="152" width="76" height="20" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<text x="342.0" y="167" font-size="12" text-anchor="middle" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">賃借施設</text>
+<rect x="333" y="182" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.8"/>
+<line x1="395" y1="8" x2="395" y2="314" stroke="#333" stroke-width="1.2"/>
+<text x="404" y="22" font-size="12" text-anchor="start" font-weight="bold" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">（参考）</text>
+<line x1="406" y1="44" x2="448" y2="44" stroke="#222" stroke-width="7"/>
+<line x1="408" y1="44" x2="446" y2="44" stroke="#fff" stroke-width="3" stroke-dasharray="8 5"/>
+<text x="454" y="49" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">：JR線</text>
+<line x1="406" y1="84" x2="448" y2="84" stroke="#6a72c8" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="454" y="89" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">：大阪メトロ</text>
+<text x="462" y="105" font-size="12" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">(Osaka Metro)</text>
+<line x1="406" y1="130" x2="448" y2="130" stroke="#7a80b8" stroke-width="1.6"/>
+<text x="454" y="135" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">：私鉄</text>
+<line x1="406" y1="166" x2="448" y2="166" stroke="#777" stroke-width="5"/>
+<path d="M419.0,159 h16 v5 l-8,9 l-8,-9 z" fill="#222" stroke="#fff" stroke-width="0.8"/>
+<text x="454" y="171" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">：国道</text>
+<line x1="406" y1="198" x2="448" y2="198" stroke="#e8613a" stroke-width="5"/>
+<text x="454" y="203" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">：高速道路</text>
+<rect x="409" y="230" width="36" height="16" fill="#fff" stroke="#5a3a22" stroke-width="5"/>
+<text x="454" y="243" font-size="13" text-anchor="start" font-weight="normal" fill="#222" font-family="'Meiryo','Yu Gothic','Noto Sans JP','Noto Sans CJK JP',sans-serif">：中学校区</text>
+</svg>
